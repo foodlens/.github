@@ -1,7 +1,6 @@
-<img height='200' src="https://github.com/foodlens/FoodLens/blob/75cdec1fb3c6c459d4369cfebf3163d14cdfbf59/assets/logo.png" align="left" vspace="10"  hspace="10">
+<img height='120' src="https://github.com/foodlens/FoodLens/blob/75cdec1fb3c6c459d4369cfebf3163d14cdfbf59/assets/logo.png" align="left" vspace="10"  hspace="10">
 
-<h1 align= "top" >FoodLens - An AI Powered Food Analysis Companion Android app <br>
-(Mobile Application for Food Allergen Identification and Alternative Food Suggestions)<br><br></h1>
+<h1 align= "top" >FoodLens - An AI Powered <br>Food Analysis Companion App <br><br></h1>
 
 
 ## What is FoodLens?
