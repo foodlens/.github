@@ -117,7 +117,7 @@ To set up the FoodLens Backend, follow these steps:
 1. Clone the repository:
    
     ```
-     git clone https://github.com/your-repo.git
+     git clone https://github.com/foodlens/backend.git
     ```
     
 3. Install dependencies:
@@ -133,9 +133,16 @@ To set up the FoodLens Backend, follow these steps:
     ```
      npm start
     ```
+    
 ## 3) ML-model Repository
 >
 >👉 Click [Here!](https://github.com/foodlens/ml-model.git)
+
+1. Clone the repository:
+   
+    ```
+      git clone https://github.com/foodlens/ml-model.git
+    ```
 
 ## 4) Business Website Repository
 >
